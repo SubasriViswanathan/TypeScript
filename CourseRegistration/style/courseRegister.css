@@ -1,0 +1,31 @@
+button
+{
+    width:100px;
+    height: 34px;
+    background-color: purple;
+    color: white;
+}
+#maindiv
+{
+display: block;
+}
+#newUserPagediv
+{
+    visibility: hidden;
+}
+#existingUserdiv
+{
+    visibility: hidden;
+}
+#optionPagediv
+{
+    visibility: hidden;
+}
+#availablecoursediv
+{
+    visibility: hidden;
+}
+#enrolldiv
+{
+    visibility: hidden;
+}
